@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "example-project",
+    "full_name": "demo/example-project",
+    "language": "Python",
+    "stargazers_count": 3,
+    "forks_count": 1,
+    "pushed_at": "2026-01-01T00:00:00Z",
+    "html_url": "https://github.com/demo/example-project"
+  }
+]
