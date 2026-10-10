@@ -2,6 +2,14 @@
 
 A command-line automation that retrieves a user's public GitHub repositories, validates the response, and saves a repeatable snapshot to SQLite, CSV, and JSON. It handles pagination, request timeouts, bounded retries, and failure logging without embedding credentials.
 
+## Project preview
+
+[Open the public interactive demo](https://jakkrapat-project-lab.happy-bud-2264.chatgpt.site/#sync)
+
+![Public GitHub repository snapshot retrieved and saved by the Python CLI](docs/images/repository-snapshot.png)
+
+The hosted preview fetches public GitHub repositories live and downloads CSV/JSON. The Python CLI adds validated SQLite snapshots and atomic export replacement. The figure below comes from an actual Python API run, not invented repository activity.
+
 ## Run locally
 
 Python 3.11+ (PowerShell):
