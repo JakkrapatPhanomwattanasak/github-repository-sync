@@ -1,5 +1,7 @@
 # GitHub Repository Sync
 
+[คู่มือภาษาไทย: เรียนตั้งแต่ศูนย์ พร้อม What/Why/How และขั้นตอนลงมือทำ](docs/GUIDE_TH.md)
+
 A command-line automation that retrieves a user's public GitHub repositories, validates the response, and saves a repeatable snapshot to SQLite, CSV, and JSON. It handles pagination, request timeouts, bounded retries, and failure logging without embedding credentials.
 
 ## Project preview
